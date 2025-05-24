@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files
+backend/model/*.pkl
+
+# React build + node modules
+frontend/node_modules/
+frontend/build/
+
+# Env
+.env
+venv/
